@@ -1,4 +1,4 @@
-import { createStyles, Overlay, Container, Title, Button, Text } from '@mantine/core';
+import { createStyles, Overlay, Container, Title, Button, Text, MediaQuery } from '@mantine/core';
 
 const useStyles = createStyles((theme) => ({
   hero: {
@@ -20,7 +20,7 @@ const useStyles = createStyles((theme) => ({
     position: 'relative',
 
     [theme.fn.smallerThan('sm')]: {
-      height: 500,
+      height: 400,
       paddingBottom: theme.spacing.xl * 3,
     },
   },
@@ -56,7 +56,7 @@ const useStyles = createStyles((theme) => ({
     marginTop: theme.spacing.xl * 1.5,
 
     [theme.fn.smallerThan('sm')]: {
-      width: '100%',
+      width: '60%',
     },
   },
 }));
