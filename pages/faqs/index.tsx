@@ -1,9 +1,8 @@
 import type { NextPage } from 'next'
 import Head from 'next/head'
-import { HomePage } from '../src/layout'
+import { FAQs } from '../../src/layout'
 
-
-const Home: NextPage = () => {
+const Contact: NextPage = () => {
   return (
     <div>
       <Head>
@@ -11,9 +10,9 @@ const Home: NextPage = () => {
         <meta name="description" content="make your Future Bright" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <HomePage/>
+      <FAQs/>
     </div>
   )
 }
 
-export default Home
+export default Contact
