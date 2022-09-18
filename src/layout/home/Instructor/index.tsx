@@ -14,7 +14,7 @@ export function Instructor({ title }: any) {
       </div>
       <div className="card-holder">
         <AuthorImageCard
-          title={"Charted Accountant"}
+          title={"Chartered Accountant"}
           image={author}
           description={
             "He has a vast experience of GST, Income Tax, Accounting and Finance. He is practicing since 15 years."
