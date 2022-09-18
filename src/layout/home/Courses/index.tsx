@@ -38,10 +38,10 @@ const coursesData = [
     image: img3.src,
     title:
       "Tax Audit u/s 44AB of Income Tax and TDS & TCS Return Filing Course",
-    description: "Covering relevant Income Law till Finance Act 2022",
+    description: "Covering relevant Income Tax Law till Finance Act 2022",
     country: "90+ Hours",
     syllabus: {
-      title: "Covering relevant Income Law till Finance Act 2022",
+      title: "Covering relevant Income Tax Law till Finance Act 2022",
     },
   },
 ];

@@ -73,7 +73,7 @@ const data = [
   {
     question: "GST Practitioner’s exams are being conduted by NACIN",
     answer: "(The National Academy of Customs and Indirect Taxes and Customs)",
-    points: ["This was the last Notification issued by NACIN for GSTP Exam."],
+    points: ["The recent Notification issued by NACIN for GSTP Exam is given below."],
     link: "https://drive.google.com/file/d/1MB12jL2INdrliZ9BApfs5TUyVraCZfES/view?usp=sharing",
   },
 ];

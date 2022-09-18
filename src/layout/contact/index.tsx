@@ -113,9 +113,9 @@ function ContactUs() {
         >
           <div>
             <Title className={classes.title}>Contact us</Title>
-            <Text className={classes.description} mt="sm" mb={30}>
+            {/* <Text className={classes.description} mt="sm" mb={30}>
               You can contact us from the following details below
-            </Text>
+            </Text> */}
 
             <ContactIconsList variant="white" />
 

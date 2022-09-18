@@ -45,6 +45,9 @@ const useStyles = createStyles((theme) => ({
   description: {
     color: theme.white,
     maxWidth: 600,
+    fontWeight:600,
+    fontSize:'32px',
+
 
     [theme.fn.smallerThan('sm')]: {
       maxWidth: '100%',

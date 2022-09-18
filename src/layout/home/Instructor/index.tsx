@@ -17,7 +17,7 @@ export function Instructor({ title }: any) {
           title={"Chartered Accountant"}
           image={author}
           description={
-            "He has a vast experience of GST, Income Tax, Accounting and Finance. He is practicing since 15 years."
+            "Having a vast experience of GST, Income Tax, Accounting and Finance and practicing since 2007."
           }
           name={"CA. Ravi Shankar Gupta"}
           height={"17.5rem"}
