@@ -6,7 +6,7 @@ const Contact: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Gupta Classes</title>
+        <title>Gupta Professional Classes</title>
         <meta name="description" content="make your Future Bright" />
         <link rel="icon" href="/favicon.ico" />
       </Head>

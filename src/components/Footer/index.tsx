@@ -138,7 +138,7 @@ export function Footer() {
     <footer className={classes.footer}>
       <Container className={classes.inner}>
         <div className={classes.logo}>
-          <h3 style={{color:'black'}} >Gupta Classes</h3>
+          <h3 style={{color:'black'}} >Gupta Professional Classes</h3>
           <Text size="xs" color="dimmed" className={classes.description}>
            Make your Future Bright
           </Text>
@@ -155,7 +155,7 @@ export function Footer() {
       </Container>
       <Container className={classes.afterFooter}>
         <Text color="dimmed" size="sm">
-          © 2020 Gupta Classes. All rights reserved.
+          © 2022 Gupta Professional Classes. All rights reserved.
         </Text>
 
         {/* <Group spacing={0} className={classes.social} position="right" noWrap>
