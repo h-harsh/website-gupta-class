@@ -373,7 +373,13 @@ a {
 
 @media screen and (max-width: 500px) {
   .navbar {
-    padding: 0 32px;
+    padding: 0 16px;
+  }
+  .nav-title{
+    font-size: 22px;
+  }
+  .mantine-bz3rh0{
+    max-width: none;
   }
 }
 

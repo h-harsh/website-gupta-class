@@ -188,7 +188,7 @@ export function Navbar({ hidemenu = false }) {
   return (
     <div className={navClass}>
       <Link href="/">
-       <h2 >Gupta Professional Classes</h2>
+       <h2 className="nav-title" >Gupta Professional Classes</h2>
       
       </Link>
 
