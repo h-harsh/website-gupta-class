@@ -2,6 +2,7 @@ import "../styles/globals.css";
 import type { AppProps } from "next/app";
 import { Navbar, Footer } from "../src/components";
 import { MantineProvider } from "@mantine/core";
+import "../styles/footer.css";
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
@@ -15,8 +16,8 @@ function MyApp({ Component, pageProps }: AppProps) {
         }}
       >
         <Navbar />
-        <div className="page" >
-        <Component {...pageProps} />
+        <div className="page">
+          <Component {...pageProps} />
         </div>
         <Footer />
       </MantineProvider>
