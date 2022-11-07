@@ -165,7 +165,7 @@ export function Footer() {
           </div>
           <div>
             <Text className={classes.title}>Address</Text>
-            <Text className={classes.link}> 310, Shreenath avenue, </Text>
+            <Text className={classes.link}> 310, Shrinathji avenue, </Text>
             <Text className={classes.link}>
               158 RNT Marg, Near Madhumilan Square
             </Text>

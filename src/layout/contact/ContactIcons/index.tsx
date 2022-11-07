@@ -95,7 +95,7 @@ const MOCKDATA = [
   {
     title: "Address",
     description:
-      "310, Shreenath avenue, 158 RNT Marg,\n Near Madhumilan Square, Indore(M.P.) – 452001",
+      "310, Shrinathji avenue, 158 RNT Marg,\n Near Madhumilan Square, Indore(M.P.) – 452001",
     icon: IconMapPin,
   },
   // { title: 'Working hours', description: '10 a.m. – 8 p.m.', icon: IconSun },

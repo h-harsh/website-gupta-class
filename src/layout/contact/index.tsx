@@ -118,12 +118,11 @@ function ContactUs() {
             </Text> */}
 
             <ContactIconsList variant="white" />
-
           </div>
           <div className={classes.form}>
             <iframe
               className="map"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d117761.13868783513!2d75.78549804781795!3d22.72691873384719!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3962fd0da2d17adf%3A0xc00baf21e1c3b21c!2sShreenath%20avenue!5e0!3m2!1sen!2sin!4v1663420085108!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d117761.13868783513!2d75.78549804781795!3d22.72691873384719!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3962fd0da2d17adf%3A0xc00baf21e1c3b21c!2sShrinathji%20avenue!5e0!3m2!1sen!2sin!4v1663420085108!5m2!1sen!2sin"
               width="100%"
               height="100%"
               allowfullscreen=""
